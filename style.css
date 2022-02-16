@@ -16,7 +16,7 @@
 .container{
     display: grid;
     background-color: black;
-    width: 16%;
+    width: 60%;
     height: 400px;
     margin: 3rem auto;
     grid-template-columns: 1fr;
